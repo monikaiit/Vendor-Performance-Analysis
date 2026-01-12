@@ -19,7 +19,6 @@ This project addresses these challenges using a structured analytics workflow.
 ## 🛠 Tools & Technologies
 - **SQL** – Data extraction, joins, aggregations, vendor-level summaries  
 - **Python** – Data cleaning, transformation, feature engineering, KPI computation  
-- **Power BI** – Business reporting and visualization  
 
 ---
 
@@ -47,20 +46,9 @@ This project addresses these challenges using a structured analytics workflow.
 
 ---
 
-## 🖥 Vendor Performance Dashboard
-Below is a preview of the interactive Power BI dashboard developed as part of this project:
-
-![Vendor Performance Dashboard](vendor-performance-dashboard.png)
-
----
-
 ## 📌 Learnings
 - Gained hands-on experience with a **real-world analytics pipeline**  
 - Strengthened skills in SQL-based data modeling and Python feature engineering  
 - Improved ability to translate analytical results into meaningful business insights  
 
----
 
-## 🔗 Repository
-[Vendor Performance Analysis](https://github.com/monikaiit/Vendor-Performance-Analysis)
-mance-Analysis)
